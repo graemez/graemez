@@ -1,7 +1,7 @@
 👋 Hi, I’m @graemez
 
-  I’m an epidemiologist interested in infectious disease modeling
-  Mainly use SAS and SQL but learning more python as I go
+ - I’m an epidemiologist interested in infectious disease modeling
+ - Mainly use SAS and SQL but learning more python as I go
 
 You can reach me at g.chiasson246@gmail.com
 
