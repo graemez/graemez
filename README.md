@@ -1,7 +1,7 @@
-## ABOUT ME
+# ABOUT ME
 ---
 
-My name is Graeme Chiasson (@graemez).  I am a Data Manager/Epidemiologist with a passion for informatics and data modernization.
+### My name is Graeme Chiasson.  I am a Data Manager/Epidemiologist with a passion for informatics and data modernization.
 
  - I mainly use SQL and Python with some SAS
  - data automation and efficiency pojects
