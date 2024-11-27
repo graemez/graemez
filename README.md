@@ -1,9 +1,14 @@
-👋 Hi, I’m @graemez
+# ABOUT ME
+---
 
- - I’m an epidemiologist interested in infectious disease modeling
- - Mainly use SAS and SQL but learning more python as I go
+### My name is Graeme Chiasson.  I am a Data Manager/Epidemiologist with a passion for informatics and data modernization.
 
-You can reach me at g.chiasson246@gmail.com
+ - I mainly use SQL and Python with some SAS
+ - data automation and efficiency pojects
+ - Interested in AI within healthcare and public health
+ - Misc. projects related to fitness and personal health 
+
+*You can reach me at g.chiasson246@gmail.com*
 
 <!---
 graemez/graemez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
