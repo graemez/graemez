@@ -1,6 +1,5 @@
-# ABOUT ME
-
-***
+## ABOUT ME
+---
 
 My name is Graeme Chiasson (@graemez).  I am a Data Manager/Epidemiologist with a passion for informatics and data modernization.
 
@@ -9,7 +8,7 @@ My name is Graeme Chiasson (@graemez).  I am a Data Manager/Epidemiologist with 
  - Interested in AI within healthcare and public health
  - Misc. projects related to fitness and personal health 
 
-You can reach me at g.chiasson246@gmail.com
+*You can reach me at g.chiasson246@gmail.com*
 
 <!---
 graemez/graemez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
